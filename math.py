@@ -1,0 +1,13 @@
+import math
+print(math.ceil(54.49))
+print(math.floor(23.94))
+print(math.factorial(5))
+print(math.copysign(2, -4))
+print(math.sqrt(256))
+print(math.lcm(1,2,3,4,5,6,7,8,9,10))
+print(math.fabs(-134.67))
+print(math.pi)
+print(math.e)
+print(round(math.pi,2))
+print(math.exp(3))
+print(math.pow(16,3))
